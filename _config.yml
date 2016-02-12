@@ -1,0 +1,28 @@
+name: clockshop
+favicon: null
+layout_spectrum: 0.09568749577738345
+typography_spectrum: 0.44149443763308227
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.23720675194635987
+  lightness: 0.43988254899159074
+  saturation: 0.0001669290941208601
+  rhythmicContrast: 0.9109032263513654
+purpose: []
